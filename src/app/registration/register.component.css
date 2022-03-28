@@ -1,0 +1,79 @@
+  
+  body {
+    font-family: "Muli-Regular";
+    color: #666;
+    font-size: 13px;
+    margin: 0; }
+   
+  input,  button {
+    font-family: "Muli-Regular";
+    color: #333;
+    font-size: 13px; }
+   
+   
+  form {
+    width: 50%;
+    padding-left: 45px; }
+   
+  .rgHeader{
+    margin-left: 40%;
+  }
+
+  .rgBody
+  {
+    margin-left: 30%;
+  }
+
+  .rgGroup
+  {
+    height: 10%;
+    width:50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+
+  .rgInput
+  {
+    height: 30px;
+    width: 250px;
+
+  } 
+  .rgInvalid
+  {
+    color:red;
+  }
+   
+  button {
+    border: none;
+    width: 152px;
+    height: 40px;
+    margin: auto;
+    margin-top: 29px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background: #3575D3 ;
+    font-size: 13px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Muli-SemiBold";
+    border-radius: 20px;
+    overflow: hidden;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s; 
+  }
+    
+    form {
+      width: 100%;
+      padding-right: 15px;
+      padding-left: 15px; } 
+   
