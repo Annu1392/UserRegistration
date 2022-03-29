@@ -1,7 +1,7 @@
 import { RegisterComponent } from "./register.component";
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { ANALYZE_FOR_ENTRY_COMPONENTS } from '@angular/core';
+
 
 
 let testComponent = RegisterComponent;
